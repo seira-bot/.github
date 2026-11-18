@@ -1,8 +1,13 @@
 <div align="center">
 
+<img src="assets/seira-3d.png" alt="Seira: a white 3D robot head with silver hair panels, a black visor screen, glowing red eyes, and a small smile" width="200">
+
+<br>
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/seira-lockup-reversed.svg">
-  <img src="assets/seira-lockup.svg" alt="seira.bot" width="240">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/seira-wordmark-reversed.svg">
+  <img src="assets/seira-wordmark.svg" alt="seira.bot" width="210">
 </picture>
 
 <h3>Your own team of AI agents in one chat app.</h3>
@@ -10,10 +15,6 @@
 We build Seira, an open-source desktop app for working with AI agents.<br>
 Each bot is a real agent with its own model, computer, and connected apps.<br>
 You talk to your bots like contacts, watch them work, and approve the steps that matter.
-
-<br>
-
-<img src="assets/seira-mascot.jpg" alt="Seira: a floating white robot head with silver hair panels, a black visor screen, red eyes, and a small smile" width="220">
 
 <br>
 
