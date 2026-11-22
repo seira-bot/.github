@@ -23,6 +23,8 @@ You talk to your bots like contacts, watch them work, and approve the steps that
 <a href="https://docs.seira.bot"><img alt="Read the Seira docs" src="https://img.shields.io/badge/docs-docs.seira.bot-0E1116?style=for-the-badge"></a>
 <a href="https://github.com/seira-bot/seira"><img alt="Open the Seira repository" src="https://img.shields.io/badge/github-seira--bot%2Fseira-0E1116?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://play.google.com/store/apps/details?id=bot.seira.companion"><img alt="Get the Seira Android app on Google Play" src="https://img.shields.io/badge/android-Google%20Play-0E1116?style=for-the-badge&logo=googleplay&logoColor=white"></a>
+<a href="https://discord.gg/wAAgETJpFS"><img alt="Join the Seira Discord server" src="https://img.shields.io/badge/discord-join%20the%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://whatsapp.com/channel/0029VbEEDHAAojYjWCQr2c1G"><img alt="Follow the Seira channel on WhatsApp" src="https://img.shields.io/badge/whatsapp-follow%20the%20channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 </div>
 
@@ -44,6 +46,8 @@ You talk to your bots like contacts, watch them work, and approve the steps that
 
 - Read the [docs](https://docs.seira.bot), or [download Seira](https://seira.bot/#download) for Windows or Linux.
 - Read the [README](https://github.com/seira-bot/seira#readme), then [build Seira from source](https://github.com/seira-bot/seira#quick-start).
+- Join the [Seira Discord server](https://discord.gg/wAAgETJpFS) to ask questions and meet other users.
+- Follow the [Seira channel on WhatsApp](https://whatsapp.com/channel/0029VbEEDHAAojYjWCQr2c1G) for new releases, new features, and tips.
 - Send a pull request. Read [CONTRIBUTING.md](https://github.com/seira-bot/seira/blob/main/CONTRIBUTING.md) first.
 - Report a security problem in private through [a security advisory](https://github.com/seira-bot/seira/security/advisories/new). Do not post it in public.
 
